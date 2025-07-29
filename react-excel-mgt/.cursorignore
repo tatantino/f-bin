@@ -1,0 +1,4 @@
+.next
+.vscode
+node_modules
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)

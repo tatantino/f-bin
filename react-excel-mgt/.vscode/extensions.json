@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "dsznajder.es7-react-js-snippets", // React 代码片段，提供 ES7 语法支持
+    "byi8220.indented-block-highlighting", // 缩进块高亮，帮助视觉上区分代码块
+    "esbenp.prettier-vscode", // Prettier 扩展，自动格式化代码
+    "bradlc.vscode-tailwindcss", // Tailwind CSS 支持，提高 CSS 开发效率
+    "dbaeumer.vscode-eslint", // ESLint 扩展，检查 JavaScript 代码风格和错误
+    "xabikos.reactsnippets", // 提供常用 React 代码片段，提升开发速度
+    "jestjs.vscode-jest", // Jest 测试框架集成，支持测试运行和调试
+    "qwtel.sqlite-viewer", // SQLite 查看
+    "christian-kohler.path-intellisense", // 路径自动补全，提升文件引用效率
+    "christian-kohler.npm-intellisense", //
+    "shd101wyy.markdown-preview-enhanced" // 增强的 Markdown 预览功能，支持更丰富的 Markdown 语法
+  ]
+}

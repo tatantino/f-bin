@@ -1,0 +1,39 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+## 技术栈
+
+### 核心框架
+- **Next.js 14.2.13**：服务端渲染和前端页面集成，使用最新的 App Router
+- **React 18.2.0**：构建现代化 UI，使用最新的 React 特性
+- **TypeScript 5.x**：静态类型支持，保障代码质量
+
+### UI 框架和样式
+- **Tailwind CSS 3.4**：快速构建响应式界面
+- **Shadcn UI**：基于 Radix UI 的一致性组件库
+  - 使用多个 Radix UI 原子组件（Dialog, Popover, Select 等）
+- **Framer Motion 11.x**：实现流畅交互动画
+- **Lucide React 0.454.0**：矢量图标库
+
+### 数据管理和查询
+- **TanStack Query 5.64**：（React Query）数据请求和缓存管理
+- **TanStack Table 8.20**：强大的表格数据管理
+- **SQLite 5.1.7**：轻量级关系型数据库
+- **XLSX 0.18.5**：Excel 文件处理
+
+### 工具库
+- **date-fns 4.1.0**：日期处理工具
+- **Winston 3.17.0**：日志管理
+- **Lodash 4.17.21**：实用工具函数库
+
+### 开发工具
+- **pnpm**：高效的包管理工具
+- **ESLint 8.56**：代码质量检查
+- **Prettier 3.3**：代码格式化
+- **TypeScript ESLint**：TypeScript 特定的代码规范
+
+### 开发环境
+- **Node.js 20+**：运行时环境
+- **TypeScript 5.0.2**：开发语言 

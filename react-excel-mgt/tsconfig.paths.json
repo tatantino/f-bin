@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      "@test-utils/*": ["./__tests__/utils/*"]
+    }
+  }
+}
